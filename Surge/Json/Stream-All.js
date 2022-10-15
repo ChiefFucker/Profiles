@@ -32,7 +32,7 @@ const UA = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (
  let disney_result=""
     if (status==STATUS_COMING) {
         //console.log(1)
-        disney_result="Disney+: 未解锁~"+region.toUpperCase()
+        disney_result="Disney +: 未解锁~"+region.toUpperCase()
       } else if (status==STATUS_AVAILABLE){
         //console.log(2)
         console.log(region)
@@ -144,7 +144,7 @@ panel_result['content'] = content
       })
     }
   
-    let netflix_check_result = 'NETFLIX: '
+    let netflix_check_result = 'NetFlix: '
   
     await inner_check(81215567)
       .then((code) => {
