@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Unlimited_downloader
+// @name        【串流下载】
 // @name:zh-CN   无限制下载器
 // @namespace    ooooooooo.io
 // @version      0.1.8
