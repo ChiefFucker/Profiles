@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name        【91-VIP】
+// @name        【解锁会员】
 // @version      0.3
 // @author       @chunv_bot
 // @license      AGPL-3.0-only
