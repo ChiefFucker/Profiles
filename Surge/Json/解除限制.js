@@ -1,9 +1,6 @@
 // ==UserScript==
-// @name         👍破解网站文本选中复制👍
-// @namespace    xiaoxiaoJeimi@163.com
+// @name        【解除限制】
 // @version      3.5.0
-// @description  🔥右键自动复制,傻瓜式全文粘贴,破解网站不允许复制的限制，文本选中后点击复制按钮即可复制.主要用于 百度文库 道客巴巴 无忧考网 学习啦 蓬勃范文 思否社区 力扣 知乎 语雀 等,持续支持更多功能中🍭🍭🍭
-// @author       jeimi
 
 
 // @include  http://item.suning.com/*
