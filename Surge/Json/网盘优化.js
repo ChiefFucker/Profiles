@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         星耀云/飞猫云/kufile/rosefile/expfile/城通网盘优化
+// @name        【网盘优化】
 // @namespace    http://tampermonkey.net/
 // @version      2.05
 // @description  快速下载 精简页面
