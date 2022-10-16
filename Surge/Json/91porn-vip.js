@@ -1,12 +1,9 @@
 // ==UserScript==
-// @name         91porn 解锁VIP观看高清下载搜索等限制,去除广告.正则版通杀所有 for openuserjs
-// @description  https://github.com/91p2022/91 解锁91pornVIP观看下载搜索限制,去除广告等,警告:本脚本无任何盈利方式,触犯某收费且含有监控追踪代码脚本,疯狂举报且用且珍惜,请保护好个人财产和隐私.
-// @copyright    @chunv_bot
-// @icon         https://www.google.com/s2/favicons?sz=64&domain=91porn.com
+// @name         91porn-VIP
+
 // @version      0.3
 // @author       @chunv_bot
 // @license      AGPL-3.0-only
-// @homepageURL  https://t.me/chunvtgbot
 // @match        *.91porn.com/*
 // @match        *://*/view_video.php*
 // @match        *://*/index.php*
@@ -69,7 +66,7 @@ function Toast_Success()//对部分地址进行注入，提示用户脚本写入
     if(Tips_Ele!=undefined)
     {
         Tips_Ele.setAttribute("style","font-size:22px;color:#ff8800");
-        Tips_Ele.textContent = "全局脚本预注入成功";//提示注入成功
+        Tips_Ele.textContent = "VIP模式";//提示注入成功
         var DownLoadAreaInfo=document.evaluate('//*[@id="videodetails-content"]/a[1]', document, null, XPathResult.ANY_TYPE, null).iterateNext();
         if(DownLoadAreaInfo!=undefined)
         {
