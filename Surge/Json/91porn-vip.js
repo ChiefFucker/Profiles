@@ -1,6 +1,5 @@
 // ==UserScript==
 // @name         91porn-VIP
-
 // @version      0.3
 // @author       @chunv_bot
 // @license      AGPL-3.0-only
