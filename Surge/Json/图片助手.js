@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name                 Picviewer CE+
+// @name                【图片助手】
 // @name:zh-CN           Picviewer CE+
 // @name:zh-TW           Picviewer CE+
 // @name:pt-BR           Picviewer CE+
