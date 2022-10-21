@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name               百度广告(首尾推广及右侧广告)清理
+// @name              【百度广告】
 // @name:en            Kill Baidu AD
 // @name:zh-TW         百度廣告(首尾推廣及右側廣告)清理
 // @namespace          hoothin
@@ -16,9 +16,7 @@
 // @compatible         chrome 测试通过
 // @compatible         firefox 测试通过
 // @compatible         opera 未测试
-// @compatible         safari 未测试
-// @contributionURL    https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=rixixi@sina.com&item_name=Greasy+Fork+donation
-// @contributionAmount 1
+// @compatible         safari 测试通过
 // ==/UserScript==
 
 (function() {
