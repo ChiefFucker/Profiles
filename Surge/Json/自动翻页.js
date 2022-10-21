@@ -1,15 +1,5 @@
 // ==UserScript==
-// @name         Pagetual
-// @name:zh-CN   东方永页机
-// @name:zh-TW   東方永頁機
-// @name:ja      東方永頁機
-// @name:ru      Pagetual
-// @name:de      Pagetual
-// @name:es      Pagetual
-// @name:fr      Pagetual
-// @name:it      Pagetual
-// @name:ko      東方永頁機
-// @namespace    hoothin
+// @name        【自动翻页】
 // @version      1.9.32.20
 // @description  Perpetual pages - Most powerful auto-pager script. Auto loading next paginated web pages and inserting into current page. Support thousands of web sites without any rule.
 // @description:zh-CN  自动翻页 - 加载并拼接下一分页内容至当前页尾，无需规则自动适配任意网页
