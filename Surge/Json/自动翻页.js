@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Pagetual
+// @name        【自动翻页】
 // @name:zh-CN   东方永页机
 // @name:zh-TW   東方永頁機
 // @name:ja      東方永頁機
