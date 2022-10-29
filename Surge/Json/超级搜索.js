@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         SearchJumper
+// @name        【超级搜索】
 // @name:zh-CN   搜索酱
 // @name:zh-TW   搜尋醬
 // @name:ja      検索ちゃん - SearchJumper
