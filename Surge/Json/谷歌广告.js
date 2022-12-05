@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name        Google Hit Hider by Domain (Search Filter / Block Sites)
+// @name       【谷歌广告】
 // @author      Jefferson "jscher2000" Scher
 // @namespace   JeffersonScher
 // @version     2.2.3
