@@ -1,26 +1,6 @@
 // ==UserScript==
-// @name         Pagetual
-// @name:zh-CN   东方永页机
-// @name:zh-TW   東方永頁機
-// @name:ja      東方永頁機
-// @name:ru      Pagetual
-// @name:de      Pagetual
-// @name:es      Pagetual
-// @name:fr      Pagetual
-// @name:it      Pagetual
-// @name:ko      東方永頁機
-// @namespace    hoothin
+// @name        【自动翻页】
 // @version      1.9.34.28
-// @description  Perpetual pages - Most powerful auto-pager script. Auto loading next paginated web pages and inserting into current page. Support thousands of web sites without any rule.
-// @description:zh-CN  终极自动翻页 - 加载并拼接下一分页内容至当前页尾，智能适配任意网页
-// @description:zh-TW  終極自動翻頁 - 加載並拼接下一分頁內容至當前頁尾，智能適配任意網頁
-// @description:ja     Webページを自動で読み込み継ぎ足し表示を行うブラウザ拡張です、次のページ付けされた Web ページの自動読み込みと現在のページへの挿入 ルールなしで何千もの Web サイトをサポートします。
-// @description:ru     Автоматическая загрузка следующих веб-страниц с разбивкой на страницы и вставка на текущую страницу. Поддержка тысяч веб-сайтов без каких-либо правил.
-// @description:de     Automatisches Laden der nächsten paginierten Webseiten und Einfügen in die aktuelle Seite. Unterstützen Sie Tausende von Websites ohne Regeln.
-// @description:es     Carga automática de las siguientes páginas web paginadas e inserción en la página actual. Admite miles de sitios web sin ninguna regla.
-// @description:fr     Chargement automatique des pages Web paginées suivantes et insertion dans la page en cours. Prend en charge des milliers de sites Web sans aucune règle.
-// @description:it     Caricamento automatico delle pagine Web impaginate successive e inserimento nella pagina corrente. Supporta migliaia di siti web senza alcuna regola.
-// @description:ko     페이지가 매겨진 다음 웹 페이지를 자동으로 로드하고 현재 페이지에 삽입합니다. 규칙 없이 수천 개의 웹 사이트를 지원합니다.
 // @author       hoothin
 // @license      MPL License
 // @match        *://*/*
@@ -45,11 +25,9 @@
 // @grant        GM.deleteValue
 // @grant        GM.info
 // @grant        GM.setClipboard
-// @supportURL   https://github.com/hoothin/UserScripts/issues
 // @connect      wedata.net
 // @connect      githubusercontent.com
 // @connect      ghproxy.com
-// @connect      hoothin.github.io
 // @run-at       document-idle
 // @connect      *
 // ==/UserScript==
