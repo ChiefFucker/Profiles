@@ -1,7 +1,6 @@
 # China Apps
 USER-AGENT,MicroMessenger Client
 USER-AGENT,WeChat*
-USER-AGENT,MApi* // Dianping
 # Ali
 DOMAIN-KEYWORD,alipay
 DOMAIN-KEYWORD,taobao
