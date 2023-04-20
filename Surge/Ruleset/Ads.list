@@ -6,6 +6,9 @@ DOMAIN,app-alpha.bytedance.net
 DOMAIN,soul-ad.soulapp.cn
 DOMAIN,ad.soulapp.cn
 DOMAIN,ad-r.soulapp.cn
+DOMAIN-SUFFIX,realsrv.com
+DOMAIN-SUFFIX,orbsrv.com
+DOMAIN-SUFFIX,trafficfactory.biz
 DOMAIN-SUFFIX,etahub.com
 DOMAIN-SUFFIX,flixdot.com
 DOMAIN-SUFFIX,adtng.com
