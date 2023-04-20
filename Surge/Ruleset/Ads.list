@@ -2,9 +2,17 @@
 DOMAIN-KEYWORD,adservice
 
 # > Defined
-DOMAIN-SUFFIX,app-alpha.bytedance.net
+DOMAIN,app-alpha.bytedance.net
+DOMAIN,soul-ad.soulapp.cn
+DOMAIN,ad.soulapp.cn
+DOMAIN,ad-r.soulapp.cn
+DOMAIN-SUFFIX,etahub.com
+DOMAIN-SUFFIX,flixdot.com
+DOMAIN-SUFFIX,adtng.com
+DOMAIN-SUFFIX,trafficjunky.net
+DOMAIN-SUFFIX,trafficjunky.com
 DOMAIN-SUFFIX,chjkelihaile.com
-DOMAIN-SUFFIX,www.huizai.top
+DOMAIN-SUFFIX,huizai.top
 DOMAIN-SUFFIX,diryleme.pro
 DOMAIN-SUFFIX,adsco.re
 DOMAIN-SUFFIX,serversad.com
