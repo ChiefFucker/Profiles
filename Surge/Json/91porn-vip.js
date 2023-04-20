@@ -1,12 +1,8 @@
 // ==UserScript==
-// @name         91porn 解锁VIP观看高清下载搜索等限制,去除广告.正则版通杀所有 for openuserjs
-// @description  https://github.com/91p2022/91 解锁91pornVIP观看下载搜索限制(需登录任意账号),去除广告,付费视频等,警告:本脚本无任何盈利方式,触犯某收费且含有监控追踪代码脚本,疯狂举报且用且珍惜,请保护好个人财产和隐私.
-// @copyright    https://t.me/svipmap
+// @name         91VIP
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=91porn.com
 // @version      0.5.4
-// @author       https://t.me/svipmap
 // @license      AGPL-3.0-only
-// @homepageURL  https://t.me/svipmap
 // @match        *.91porn.com/*
 // @match        *://*/view_video.php*
 // @match        *://*/index.php*
@@ -15,7 +11,7 @@
 // @require      https://www.googletagmanager.com/gtag/js
 // @run-at       document-end
 // @grant        none
-// @antifeature tracking 会提前预解析,存入redis.提高解析速度,具体图看使用教程 # 防丢导航群&更新公告&使用教程&常见问题&每日自动采集精选 等都在这里,https://t.me/svipmap
+// @antifeature tracking 会提前预解析,存入redis.
 
 // ==/UserScript==
 function playvideo() {
