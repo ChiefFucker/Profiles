@@ -1,19 +1,15 @@
 // ==UserScript==
-// @name         海角社区 解锁VIP付费视频高清下载等限制,去除广告.正则版通杀所有 for openuserjs
-// @description  https://github.com/91p2022/haijiao 解锁VIP付费视频高清下载等限制
-// @copyright    https://t.me/svipmap
+// @name        【HJVIP】
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=91porn.com
 // @version      0.0.2
-// @author       https://t.me/svipmap
 // @license      AGPL-3.0-only
-// @homepageURL  https://t.me/svipmap
 // @match        *.haijiao.com/*
 // @match        *://*/post/details*
 // @require      https://cdn.jsdelivr.net/npm/vue@2.6.14/dist/vue.js
 // @require      https://www.googletagmanager.com/gtag/js
 // @run-at       document-end
 // @grant        none
-// @antifeature tracking 会提前预解析,存入redis.提高解析速度,具体图看使用教程# 防丢导航群&更新公告&使用教程&常见问题&每日自动采集精选 等都在这里,https://t.me/svipmap
+// @antifeature tracking 会提前预解析,存入redis.
 // ==/UserScript==
 
 function playvideo() {
