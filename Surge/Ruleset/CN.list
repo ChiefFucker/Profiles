@@ -1,6 +1,5 @@
 # China Apps
-USER-AGENT,MicroMessenger*
-USER-AGENT,WeChat*
+USER-AGENT,MicroMessenger
 # Ali
 DOMAIN-KEYWORD,alipay
 DOMAIN-KEYWORD,taobao
