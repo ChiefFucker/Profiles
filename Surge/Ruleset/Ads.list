@@ -1,6 +1,6 @@
 # > General
 DOMAIN-KEYWORD,adservice
-
+DOMAIN-KEYWORD,irs0
 # > Defined
 DOMAIN,app-alpha.bytedance.net
 DOMAIN-SUFFIX,iadsdk.apple.com
@@ -20,7 +20,6 @@ DOMAIN-SUFFIX,huizai.top
 DOMAIN-SUFFIX,diryleme.pro
 DOMAIN-SUFFIX,adsco.re
 DOMAIN-SUFFIX,serversad.com
-
 # > YOUKU
 DOMAIN-SUFFIX,atm.youku.com
 DOMAIN-SUFFIX,sm.cn
