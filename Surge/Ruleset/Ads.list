@@ -3,6 +3,8 @@ DOMAIN-KEYWORD,adservice
 DOMAIN-KEYWORD,doubleclick
 DOMAIN-KEYWORD,irs0
 # > Defined
+DOMAIN,match.adsrvr.org
+DOMAIN,acdn.adnxs.com
 DOMAIN,app-alpha.bytedance.net
 DOMAIN-SUFFIX,iadsdk.apple.com
 DOMAIN,soul-ad.soulapp.cn
