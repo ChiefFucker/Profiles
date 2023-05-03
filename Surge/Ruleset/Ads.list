@@ -5,8 +5,8 @@ DOMAIN-KEYWORD,irs0
 DOMAIN-KEYWORD,adentifi
 DOMAIN-KEYWORD,adsrvr
 DOMAIN-KEYWORD,adnxs
-DOMAIN-KEYWORD,.ads.
 # > Defined
+DOMAIN,px.ads.linkedin.com
 DOMAIN,app-alpha.bytedance.net
 DOMAIN-SUFFIX,iadsdk.apple.com
 DOMAIN,soul-ad.soulapp.cn
