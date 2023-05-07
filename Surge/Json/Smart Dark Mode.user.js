@@ -16,6 +16,15 @@ if (self == top) {
 }
 
 // main.js
+window.addEventListener('load', _ => {
+    (async _ => {
+        let settings = await GM.getValue('settings', Promise.resolve(['hotKeySetOn', 'Ctrl + D', 'setTimeOff', '18:00', '07:00']));
+        settings = JSON.parse(settings.replace(/'/g, '"'));
+        let alwaysOnList = await GM.getValue('alwaysOnList', Promise.resolve(''));
+        let alwaysOffList = await GM.getValue('alwaysOffList', Promise.resolve('youtube.com/live_chat'));
+        let checkUrlExist = list => {
+            return (list.replaceAll(/\s/g, '').split(/[\r\n]+|,/g) != '' && list.replaceAll(/\s/g, '').split(/[\r\n]+|,/g).filter(a => window.document.URL.indexOf(a) > -1).length > 0) ? true : false
+        }
 <style>
 #SDM_body {background-color: #171717!important; height: 430px!important; position: fixed!important; top: 25px!important; right: 25px!important; width: 316px!important; z-index: 2147483647!important; box-shadow: 0 4px 6px 0 #171717!important; user-select: none!important;}
 #SDM_body :not(#SDM_all) {color:#bdc1c6!important;}
