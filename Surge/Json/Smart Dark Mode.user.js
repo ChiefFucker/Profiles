@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name	Smart Dark Mode
+// @name	     【深色模式】
 // @match             *://*/*
 // @grant             GM.getValue
 // @grant             GM.setValue
