@@ -13,6 +13,8 @@ DOMAIN-SUFFIX,iadsdk.apple.com
 DOMAIN,soul-ad.soulapp.cn
 DOMAIN,ad.soulapp.cn
 DOMAIN,ad-r.soulapp.cn
+DOMAIN,adim.pinduoduo.com
+DOMAIN,log-api.pangolin-sdk-toutiao-b.com
 DOMAIN-SUFFIX,realsrv.com
 DOMAIN-SUFFIX,orbsrv.com
 DOMAIN-SUFFIX,trafficfactory.biz
