@@ -9,6 +9,7 @@ DOMAIN-KEYWORD,ethicalads
 DOMAIN-KEYWORD,admaster
 DOMAIN-KEYWORD,trafficjunky
 # > Defined
+DOMAIN,ada.baidu.com
 DOMAIN,px.ads.linkedin.com
 DOMAIN,app-alpha.bytedance.net
 DOMAIN-SUFFIX,iadsdk.apple.com
