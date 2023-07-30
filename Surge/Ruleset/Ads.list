@@ -12,12 +12,13 @@ DOMAIN-KEYWORD,trafficjunky
 DOMAIN,ada.baidu.com
 DOMAIN,px.ads.linkedin.com
 DOMAIN,app-alpha.bytedance.net
-DOMAIN-SUFFIX,iadsdk.apple.com
 DOMAIN,soul-ad.soulapp.cn
 DOMAIN,ad.soulapp.cn
 DOMAIN,ad-r.soulapp.cn
 DOMAIN,p9-ad-sign.byteimg.com
+DOMAIN,pglstatp-toutiao.com
 DOMAIN-SUFFIX,sm.cn
+DOMAIN-SUFFIX,iadsdk.apple.com
 DOMAIN-SUFFIX,realsrv.com
 DOMAIN-SUFFIX,orbsrv.com
 DOMAIN-SUFFIX,trafficfactory.biz
@@ -49,3 +50,4 @@ DOMAIN,apiv4-iyes.youku.com
 DOMAIN,youku-child.youku.com
 DOMAIN,adashbc.ut.taobao.com
 DOMAIN,ad.zijieapi.com
+DOMAIN,ykad-data.youku.com
