@@ -16,7 +16,7 @@ DOMAIN,soul-ad.soulapp.cn
 DOMAIN,ad.soulapp.cn
 DOMAIN,ad-r.soulapp.cn
 DOMAIN,p9-ad-sign.byteimg.com
-DOMAIN,pglstatp-toutiao.com
+DOMAIN-SUFFIX,pglstatp-toutiao.com
 DOMAIN-SUFFIX,sm.cn
 DOMAIN-SUFFIX,iadsdk.apple.com
 DOMAIN-SUFFIX,realsrv.com
