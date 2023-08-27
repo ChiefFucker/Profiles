@@ -40,6 +40,8 @@ DOMAIN-SUFFIX,serversad.com
 DOMAIN-SUFFIX,33across.com
 DOMAIN-SUFFIX,killcovid2021.com
 DOMAIN-SUFFIX,jads.co
+DOMAIN-SUFFIX,api-sub.meitu.com
+DOMAIN-SUFFIX,rabbit.meitustat.com
 # > YOUKU
 DOMAIN,ad.mobile.youku.com
 DOMAIN,adx.op.cp18.ott.cibntv.net
