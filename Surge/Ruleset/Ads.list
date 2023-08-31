@@ -8,6 +8,7 @@ DOMAIN-KEYWORD,adnxs
 DOMAIN-KEYWORD,ethicalads
 DOMAIN-KEYWORD,admaster
 DOMAIN-KEYWORD,trafficjunky
+DOMAIN-KEYWORD,baichuan
 # > Defined
 DOMAIN,ada.baidu.com
 DOMAIN,px.ads.linkedin.com
@@ -63,3 +64,5 @@ DOMAIN,adashbc.ut.taobao.com
 DOMAIN,ad.zijieapi.com
 DOMAIN,ykad-data.youku.com
 DOMAIN,cad.youku.com
+DOMAIN,adashxgc.ut.taobao.com
+DOMAIN,adstrategy.biz.weibo.com
