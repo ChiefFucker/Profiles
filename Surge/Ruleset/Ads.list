@@ -38,6 +38,7 @@ DOMAIN-SUFFIX,serversad.com
 DOMAIN-SUFFIX,33across.com
 DOMAIN-SUFFIX,jads.co
 DOMAIN-SUFFIX,rabbit.meitustat.com
+DOMAIN-SUFFIX,cp31.ott.cibntv.net
 # > YOUKU
 DOMAIN,iyes.youku.com
 DOMAIN,adashxgc.ut.taobao.com
@@ -51,4 +52,3 @@ DOMAIN,ykad-data.youku.com
 DOMAIN,push.m.youku.com
 DOMAIN,httpdns.alicdn.com
 DOMAIN,nbsdk-baichuan.alicdn.com
-DOMAIN,valipl10.cp31.ott.cibntv.net
