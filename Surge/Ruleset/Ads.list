@@ -43,8 +43,12 @@ DOMAIN-SUFFIX,33across.com
 DOMAIN-SUFFIX,jads.co
 DOMAIN-SUFFIX,pinduoduo.com
 DOMAIN-SUFFIX,rabbit.meitustat.com
+DOMAIN-SUFFIX,unityads.unity3d.com
+DOMAIN-SUFFIX,pangolin-sdk-toutiao-b.com
+DOMAIN-SUFFIX,pglstatp-toutiao.com
 # > YOUKU
 DOMAIN,iyes.youku.com
+DOMAIN,activity.youku.com
 DOMAIN,adashxgc.ut.taobao.com
 DOMAIN,adashbc.ut.taobao.com
 DOMAIN,h-adashx.ut.taobao.com
