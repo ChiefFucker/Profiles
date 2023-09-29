@@ -22,6 +22,12 @@ DOMAIN,ads.weilitoutiao.net
 DOMAIN,ad-h5-cdn.soulapp.cn
 DOMAIN,ad-h5-station-cdn.soulapp.cn
 DOMAIN,api-feedback.meitu.com
+DOMAIN,pingma.qq.com
+DOMAIN,ulogs.umengcloud.com
+DOMAIN,mon.zijieapi.com
+DOMAIN,sdk.e.qq.com
+DOMAIN,log-api.pangolin-sdk-toutiao.com
+DOMAIN,ulogs.umeng.com
 DOMAIN-SUFFIX,tanx.com
 DOMAIN-SUFFIX,voiceads.cn
 DOMAIN-SUFFIX,outin.cn
@@ -47,6 +53,7 @@ DOMAIN-SUFFIX,rabbit.meitustat.com
 DOMAIN-SUFFIX,unityads.unity3d.com
 DOMAIN-SUFFIX,pangolin-sdk-toutiao-b.com
 DOMAIN-SUFFIX,pglstatp-toutiao.com
+DOMAIN-SUFFIX,sigmob.cn
 # > YOUKU
 DOMAIN,iyes.youku.com
 DOMAIN,activity.youku.com
