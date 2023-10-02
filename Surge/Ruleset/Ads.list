@@ -22,6 +22,9 @@ DOMAIN,ads.weilitoutiao.net
 DOMAIN,ad-h5-cdn.soulapp.cn
 DOMAIN,ad-h5-station-cdn.soulapp.cn
 DOMAIN,api-feedback.meitu.com
+DOMAIN,app-measurement.com
+DOMAIN,polar-sdk-api.jiguang.cn
+DOMAIN,sdk.tianmu.mobi
 DOMAIN-SUFFIX,tanx.com
 DOMAIN-SUFFIX,voiceads.cn
 DOMAIN-SUFFIX,outin.cn
@@ -50,6 +53,7 @@ DOMAIN-SUFFIX,pangolin-sdk-toutiao-b.com
 DOMAIN-SUFFIX,pglstatp-toutiao.com
 # > YOUKU
 DOMAIN,iyes.youku.com
+DOMAIN,missile.youku.com
 DOMAIN,activity.youku.com
 DOMAIN,adashxgc.ut.taobao.com
 DOMAIN,adashbc.ut.taobao.com
