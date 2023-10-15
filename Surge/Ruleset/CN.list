@@ -11,12 +11,14 @@ DOMAIN-KEYWORD,toutiao
 DOMAIN-KEYWORD,cibntv
 DOMAIN-KEYWORD,youku
 DOMAIN-KEYWORD,amemv
+DOMAIN-KEYWORD,byteimg
 DOMAIN-KEYWORD,snssdk
 DOMAIN-KEYWORD,zijie
 DOMAIN-KEYWORD,volcsirius
 IP-CIDR,198.11.188.0/25,no-resolve
 IP-CIDR,198.11.136.0/24,no-resolve
 IP-CIDR,118.121.193.148/32,no-resolve
+IP-CIDR,124.236.28.133/32,no-resolve
 IP-CIDR6,240e::/16,no-resolve
 IP-CIDR6,2408::/16,no-resolve
 IP-CIDR6,2409::/16,no-resolve
