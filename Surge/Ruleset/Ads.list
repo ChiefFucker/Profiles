@@ -65,11 +65,16 @@ DOMAIN,adashbc.ut.taobao.com
 DOMAIN,adashx.ut.youku.com
 DOMAIN,youku-child.youku.com
 DOMAIN,ykad-data.youku.com
-DOMAIN-SUFFIX,ad.youku.com
-DOMAIN-SUFFIX,atm.youku.com
+DOMAIN,ems.youku.com
+DOMAIN,cad.youku.com
 DOMAIN,ad.mobile.youku.com
 DOMAIN,adx.op.cp18.ott.cibntv.net
 DOMAIN,pl.cp31.ott.cibntv.net
+DOMAIN,yktd.m.cn.miaozhen.com
+DOMAIN,pd.ads.cn.miaozhen.com
+DOMAIN,yk-ssp.ad.youku.com
+DOMAIN-SUFFIX,ad.youku.com
+DOMAIN-SUFFIX,atm.youku.com
 # > Baidu
 DOMAIN-SUFFIX,duapps.com
 DOMAIN-SUFFIX,cpro.baidu.com
