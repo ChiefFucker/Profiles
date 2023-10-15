@@ -25,6 +25,7 @@ DOMAIN,api-feedback.meitu.com
 DOMAIN,app-measurement.com
 DOMAIN,polar-sdk-api.jiguang.cn
 DOMAIN,sdk.tianmu.mobi
+DOMAIN-SUFFIX,adjust.com
 DOMAIN-SUFFIX,tanx.com
 DOMAIN-SUFFIX,voiceads.cn
 DOMAIN-SUFFIX,outin.cn
