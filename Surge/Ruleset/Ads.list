@@ -51,22 +51,44 @@ DOMAIN-SUFFIX,xiangzishop.com
 DOMAIN-SUFFIX,cac-repair.com
 DOMAIN-SUFFIX,renrenjihua.com
 DOMAIN-SUFFIX,pinduoduo.com
-DOMAIN-SUFFIX,cp31.ott.cibntv.net
 DOMAIN-SUFFIX,rabbit.meitustat.com
-DOMAIN-SUFFIX,unityads.unity3d.com
+DOMAIN-SUFFIX,unity3d.com
 DOMAIN-SUFFIX,pangolin-sdk-toutiao-b.com
 DOMAIN-SUFFIX,pglstatp-toutiao.com
 # > YOUKU
 DOMAIN,iyes.youku.com
-DOMAIN,missile.youku.com
-DOMAIN,activity.youku.com
+DOMAIN,apiv4-iyes.youku.com
 DOMAIN,adashxgc.ut.taobao.com
 DOMAIN,adashbc.ut.taobao.com
-DOMAIN,h-adashx.ut.taobao.com
-DOMAIN,adx-open-service.youku.com
 DOMAIN,adashx.ut.youku.com
-DOMAIN,apiv4-iyes.youku.com
 DOMAIN,youku-child.youku.com
 DOMAIN,ykad-data.youku.com
-DOMAIN,httpdns.alicdn.com
 DOMAIN-SUFFIX,ad.youku.com
+DOMAIN-SUFFIX,atm.youku.com
+DOMAIN,ad.mobile.youku.com
+DOMAIN,adx.op.cp18.ott.cibntv.net
+DOMAIN,pl.cp31.ott.cibntv.net
+# > Baidu
+DOMAIN-SUFFIX,duapps.com
+DOMAIN-SUFFIX,cpro.baidu.com
+DOMAIN-SUFFIX,pos.baidu.com
+DOMAIN,afd.baidu.com
+DOMAIN,als.baidu.com
+DOMAIN,duclick.baidu.com
+DOMAIN,mobads.baidu.com
+DOMAIN,mobads-logs.baidu.com
+DOMAIN,nadvideo2.baidu.com
+DOMAIN,nsclick.baidu.com
+# > Xiaohongshu
+DOMAIN,ads-img-qc.xhscdn.com
+DOMAIN,ads-video-al.xhscdn.com
+DOMAIN,ads-video-qc.xhscdn.com
+DOMAIN,t-ads.xiaohongshu.com
+# > Zhihu
+USER-AGENT,AVOS*
+DOMAIN,appcloud2.in.zhihu.com
+DOMAIN,mqtt.zhihu.com
+DOMAIN,sugar.zhihu.com
+DOMAIN,118.89.204.198
+IP-CIDR,118.89.204.198/32,no-resolve
+IP-CIDR6,2402:4e00:1200:ed00:0:9089:6dac:96b6/128,no-resolve
