@@ -79,6 +79,8 @@ DOMAIN,mobads.baidu.com
 DOMAIN,mobads-logs.baidu.com
 DOMAIN,nadvideo2.baidu.com
 DOMAIN,nsclick.baidu.com
+DOMAIN,hm.baidu.com
+DOMAIN,hmma.baidu.com
 # > Xiaohongshu
 DOMAIN,ads-img-qc.xhscdn.com
 DOMAIN,ads-video-al.xhscdn.com
