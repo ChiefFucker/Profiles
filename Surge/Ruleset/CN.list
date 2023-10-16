@@ -19,6 +19,7 @@ DOMAIN-KEYWORD,volcsirius
 IP-CIDR,198.11.188.0/25,no-resolve
 IP-CIDR,198.11.136.0/24,no-resolve
 IP-CIDR,118.121.193.148/32,no-resolve
+IP-CIDR,123.184.199.42/32,no-resolve
 IP-CIDR,124.236.28.133/32,no-resolve
 IP-CIDR,124.236.28.188/32,no-resolve
 IP-CIDR6,240e::/16,no-resolve
@@ -27,5 +28,3 @@ IP-CIDR6,2409::/16,no-resolve
 IP-CIDR6,2400:3200::/32,no-resolve
 IP-CIDR6,2401:b180::/32,no-resolve
 USER-AGENT,%E6%89%8B%E6%9C%BA%E6%B7%98%E5%AE%9D*
-USER-AGENT,xcdn-1/IOS_2.1.2308.3
-USER-AGENT,Youku*
