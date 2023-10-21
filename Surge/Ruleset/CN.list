@@ -10,3 +10,10 @@ DOMAIN-KEYWORD,toutiao
 DOMAIN-KEYWORD,snssdk
 DOMAIN-KEYWORD,cibntv
 DOMAIN-KEYWORD,youku
+IP-CIDR,198.11.188.0/25,no-resolve
+IP-CIDR,198.11.136.0/24,no-resolve
+IP-CIDR6,240e::/16,no-resolve
+IP-CIDR6,2408::/16,no-resolve
+IP-CIDR6,2409::/16,no-resolve
+IP-CIDR6,2400:3200::/32,no-resolve
+IP-CIDR6,2401:b180::/32,no-resolve
