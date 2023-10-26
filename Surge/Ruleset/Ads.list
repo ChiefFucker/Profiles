@@ -11,9 +11,10 @@ DOMAIN-KEYWORD,trafficjunky
 DOMAIN-KEYWORD,baichuan
 DOMAIN-KEYWORD,mmstat
 # > Defined
-DOMAIN,ada.baidu.com
 DOMAIN,px.ads.linkedin.com
 DOMAIN,app-alpha.bytedance.net
+DOMAIN,pangolin-sdk-toutiao-b.com
+DOMAIN,api-access.pangolin-sdk-toutiao1.com
 DOMAIN,soul-ad.soulapp.cn
 DOMAIN,ad.soulapp.cn
 DOMAIN,ad-r.soulapp.cn
@@ -55,7 +56,6 @@ DOMAIN-SUFFIX,renrenjihua.com
 DOMAIN-SUFFIX,pinduoduo.com
 DOMAIN-SUFFIX,rabbit.meitustat.com
 DOMAIN-SUFFIX,unity3d.com
-DOMAIN-SUFFIX,pangolin-sdk-toutiao-b.com
 DOMAIN-SUFFIX,pglstatp-toutiao.com
 # > YOUKU
 DOMAIN,iyes.youku.com
@@ -75,29 +75,3 @@ DOMAIN,pd.ads.cn.miaozhen.com
 DOMAIN,yk-ssp.ad.youku.com
 DOMAIN-SUFFIX,ad.youku.com
 DOMAIN-SUFFIX,atm.youku.com
-# > Baidu
-DOMAIN-SUFFIX,duapps.com
-DOMAIN-SUFFIX,cpro.baidu.com
-DOMAIN-SUFFIX,pos.baidu.com
-DOMAIN,afd.baidu.com
-DOMAIN,als.baidu.com
-DOMAIN,duclick.baidu.com
-DOMAIN,mobads.baidu.com
-DOMAIN,mobads-logs.baidu.com
-DOMAIN,nadvideo2.baidu.com
-DOMAIN,nsclick.baidu.com
-DOMAIN,hm.baidu.com
-DOMAIN,hmma.baidu.com
-# > Xiaohongshu
-DOMAIN,ads-img-qc.xhscdn.com
-DOMAIN,ads-video-al.xhscdn.com
-DOMAIN,ads-video-qc.xhscdn.com
-DOMAIN,t-ads.xiaohongshu.com
-# > Zhihu
-USER-AGENT,AVOS*
-DOMAIN,appcloud2.in.zhihu.com
-DOMAIN,mqtt.zhihu.com
-DOMAIN,sugar.zhihu.com
-DOMAIN,118.89.204.198
-IP-CIDR,118.89.204.198/32,no-resolve
-IP-CIDR6,2402:4e00:1200:ed00:0:9089:6dac:96b6/128,no-resolve
