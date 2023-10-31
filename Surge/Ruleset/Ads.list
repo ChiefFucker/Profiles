@@ -61,9 +61,6 @@ DOMAIN-SUFFIX,pglstatp-toutiao.com
 # > YOUKU
 DOMAIN,iyes.youku.com
 DOMAIN,apiv4-iyes.youku.com
-DOMAIN,adashxgc.ut.taobao.com
-DOMAIN,adashbc.ut.taobao.com
-DOMAIN,adashx.ut.youku.com
 DOMAIN,youku-child.youku.com
 DOMAIN,ykad-data.youku.com
 DOMAIN,ems.youku.com
@@ -74,5 +71,11 @@ DOMAIN,pl.cp31.ott.cibntv.net
 DOMAIN,yktd.m.cn.miaozhen.com
 DOMAIN,pd.ads.cn.miaozhen.com
 DOMAIN,yk-ssp.ad.youku.com
-DOMAIN-SUFFIX,ad.youku.com
 DOMAIN-SUFFIX,atm.youku.com
+DOMAIN,adsmind.ugdtimg.com
+DOMAIN,amdc.m.youku.com
+DOMAIN,httpdns.alicdn.com
+DOMAIN,m-vali.cp31.ott.cibntv.net
+DOMAIN,mc.atm.youku.com
+DOMAIN,vali-g1.cp31.ott.cibntv.net
+DOMAIN,vali-ugc.cp31.ott.cibntv.net
