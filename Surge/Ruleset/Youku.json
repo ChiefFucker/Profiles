@@ -1,7 +1,0 @@
-# > Youku
-const url = $request.url;
-if (!$response.body) $done({});
-const isIQY = url.includes("iqiyi.com/");
-const isMG = url.includes("mgtv.com/");
-const isYK = url.includes("youku.com/");
-let obj = JSON.parse($response.body);
