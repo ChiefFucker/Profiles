@@ -17,6 +17,7 @@ DOMAIN-KEYWORD,youku
 DOMAIN-KEYWORD,apple
 DOMAIN-KEYWORD,icloud
 DOMAIN-KEYWORD,itunes
+DOMAIN-KEYWORD,mzstatic
 IP-CIDR,198.11.188.0/25,no-resolve
 IP-CIDR,198.11.136.0/24,no-resolve
 IP-CIDR6,240e::/16,no-resolve
