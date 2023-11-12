@@ -14,13 +14,9 @@ DOMAIN-KEYWORD,toutiao
 DOMAIN-KEYWORD,goofish
 DOMAIN-KEYWORD,ykimg
 DOMAIN-KEYWORD,youku
-DOMAIN,xp.apple.com
-DOMAIN,setup.icloud.com
-DOMAIN,amp-api.apps.apple.com
-DOMAIN,amp-api.music.apple.com
-DOMAIN,amp-api-edge.apps.apple.com
-DOMAIN-SUFFIX,mzstatic.com
-DOMAIN-SUFFIX,itunes.apple.com
+DOMAIN-KEYWORD,apple
+DOMAIN-KEYWORD,icloud
+DOMAIN-KEYWORD,itunes
 IP-CIDR,198.11.188.0/25,no-resolve
 IP-CIDR,198.11.136.0/24,no-resolve
 IP-CIDR6,240e::/16,no-resolve
