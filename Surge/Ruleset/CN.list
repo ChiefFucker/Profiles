@@ -15,6 +15,9 @@ DOMAIN-KEYWORD,goofish
 DOMAIN-KEYWORD,ykimg
 DOMAIN-KEYWORD,youku
 DOMAIN-KEYWORD,autonavi
+DOMAIN,amp-api.apps.apple.com
+DOMAIN,amp-api.music.apple.com
+DOMAIN,amp-api-edge.apps.apple.com
 IP-CIDR,198.11.188.0/25,no-resolve
 IP-CIDR,198.11.136.0/24,no-resolve
 IP-CIDR6,240e::/16,no-resolve
