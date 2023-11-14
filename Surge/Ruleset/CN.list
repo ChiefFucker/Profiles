@@ -17,7 +17,7 @@ DOMAIN-KEYWORD,ykimg
 DOMAIN-KEYWORD,youku
 DOMAIN-KEYWORD,weather-
 DOMAIN-KEYWORD,autonavi
-DOMAIN-KEYWORD,amp-api.
+DOMAIN-KEYWORD,amp-api
 DOMAIN-SUFFIX,itunes.apple.com
 IP-CIDR,198.11.188.0/25,no-resolve
 IP-CIDR,198.11.136.0/24,no-resolve
