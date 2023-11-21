@@ -13,7 +13,7 @@ const noticeTitle = "广告联盟";
 
 if ((url.includes("api-access.pangolin-sdk-toutiao.com/api/ad/union/sdk")
         || url.includes("api-access.pangolin-sdk-toutiao1.com/api/ad/union/sdk")
-        || url.includes("is.snssdk.com/api/ad/union/sdk") || url.includes("sf3-fe-tos.pglstatp-toutiao.com/obj/ad-pattern/renderer/package.js") || url.includes("rhdc-acs.youku.com/gw") || url.includes("mon.zijieapi.com/monitor/collect/c/cloudcontrol/get"))
+        || url.includes("is.snssdk.com/api/ad/union/sdk") || url.includes("sf3-fe-tos.pglstatp-toutiao.com/obj/ad-pattern/renderer/package.js"))
     && method === postMethod) {
     console.log('穿山甲-get_ads');
     if (!body.message) {
@@ -34,7 +34,7 @@ if ((url.includes("api-access.pangolin-sdk-toutiao.com/api/ad/union/sdk")
         };
         console.log('成功');
     }
-} else if (url.includes('mi.gdt.qq.com') || url.includes('yk-ssp.ad.youku.com') || url.includes('huichuan.sm.cn') || url.includes('lf-cdn-tos.bytescm.com') && method === getMethod) {
+} else if (url.includes('mi.gdt.qq.com') || url.includes('yk-ssp.ad.youku.com') || url.includes('huichuan.sm.cn') && method === getMethod) {
     console.log('优量汇');
     if ('ret' in body) {
         if (body.ret === 0) {
