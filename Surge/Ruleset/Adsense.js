@@ -28,13 +28,13 @@ if ((url.includes("api-access.pangolin-sdk-toutiao.com/api/ad/union/sdk")
         console.log(Object.keys(body));
         body = {
             "request_id": 'F5617E54-3FF4-4052-9B09-4227D09B5105',
-            "status_code": 20001,
+            "status_code": (20001 || 20000),
             "reason": 112,
             "desc": "该代码位请求量过大且消耗过低，因此填充率控制在10%以内，该策略每日生效，如果当天该代码位的消耗上涨或请求量小于5000，则次日不会命中该策略"
         };
         console.log('成功');
     }
-} else if (url.includes('mi.gdt.qq.com') || url.includes('huichuan.sm.cn/v')&& method === getMethod) {
+} else if (url.includes('mi.gdt.qq.com') || url.includes('huichuan.sm.cn/v') && method === getMethod) {
     console.log('优量汇');
     if ('ret' in body) {
         if (body.ret === 0) {
