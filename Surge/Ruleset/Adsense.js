@@ -34,7 +34,7 @@ if ((url.includes("api-access.pangolin-sdk-toutiao.com/api/ad/union/sdk")
         };
         console.log('成功');
     }
-} else if (url.includes('mi.gdt.qq.com') || url.includes('yk-ssp.ad.youku.com') || url.includes('huichuan.sm.cn') && method === getMethod) {
+} else if (url.includes('mi.gdt.qq.com') || url.includes('yk-ssp.ad.youku.com') || url.includes('huichuan.sm.cn') || url.includes('huichuan-mc.sm.cn') && method === getMethod) {
     console.log('优量汇');
     if ('ret' in body) {
         if (body.ret === 0) {
