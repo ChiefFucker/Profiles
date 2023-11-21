@@ -1,7 +1,9 @@
 # > General
+DOMAIN-KEYWORD,.ad
 DOMAIN-KEYWORD,ad-
 DOMAIN-KEYWORD,ads.
 DOMAIN-KEYWORD,irs0
+DOMAIN-KEYWORD,ichuan
 DOMAIN-KEYWORD,.traffic
 DOMAIN-KEYWORD,doubleclick
 DOMAIN,sdk.tianmu.mobi
@@ -20,6 +22,3 @@ DOMAIN-SUFFIX,cac-repair.com
 DOMAIN-SUFFIX,renrenjihua.com
 DOMAIN-SUFFIX,xiangzishop.com
 DOMAIN-SUFFIX,chjkelihaile.com
-DOMAIN,huichuan-mc.sm.cn
-DOMAIN,nbsdk-baichuan.alicdn.com
-DOMAIN,acs4baichuan.m.taobao.com
