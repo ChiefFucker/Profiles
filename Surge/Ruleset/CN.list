@@ -26,6 +26,9 @@ DOMAIN-KEYWORD,amp-api
 DOMAIN-KEYWORD,weather-
 DOMAIN-KEYWORD,autonavi
 DOMAIN-KEYWORD,bankcomm
+DOMAIN-SUFFIX,pstatp.com
+DOMAIN-SUFFIX,baike.com
+DOMAIN-SUFFIX,bdurl.com
 IP-CIDR,198.11.188.0/25,no-resolve
 IP-CIDR,198.11.136.0/24,no-resolve
 IP-CIDR6,240e::/16,no-resolve
