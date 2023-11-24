@@ -13,7 +13,7 @@ const noticeTitle = "广告联盟";
 
 if ((url.includes("api-access.pangolin-sdk-toutiao.com/api/ad/union/sdk")
         || url.includes("api-access.pangolin-sdk-toutiao1.com/api/ad/union/sdk")
-        || url.includes("is.snssdk.com/api/ad/union/sdk") || url.includes("log-api.pangolin-sdk-toutiao-b.com/service/2/app_log") || url.includes("push.m.youku.com/collect-api/v1/guid_devices"))
+        || url.includes("is.snssdk.com/api/ad/union/sdk") || url.includes("log-api.pangolin-sdk-toutiao-b.com/service/2/app_log") || url.includes("api-access.pangolin-sdk-toutiao-b.com/api/ad/union/sdk") || url.includes("push.m.youku.com/collect-api/v1/guid_devices"))
     && method === postMethod) {
     console.log('穿山甲-get_ads');
     if (!body.message) {
