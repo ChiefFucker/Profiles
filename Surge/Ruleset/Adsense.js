@@ -11,9 +11,7 @@ const getMethod = "GET";
 const postMethod = "POST";
 const noticeTitle = "广告联盟";
 
-if ((url.includes("api-access.pangolin-sdk-toutiao.com/api/ad/union/sdk")
-        || url.includes("api-access.pangolin-sdk-toutiao1.com/api/ad/union/sdk")
-        || url.includes("is.snssdk.com/api/ad/union/sdk"))
+if ((url.includes("api-access.pangolin-sdk-toutiao.com/api/ad/union/sdk") || url.includes("is.snssdk.com/api/ad/union/sdk"))
     && method === postMethod) {
     console.log('穿山甲-get_ads');
     if (!body.message) {
