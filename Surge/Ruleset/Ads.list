@@ -6,7 +6,6 @@ DOMAIN-KEYWORD,.traffic
 DOMAIN-KEYWORD,doubleclick
 DOMAIN,sdk.tianmu.mobi
 DOMAIN,polar-sdk-api.jiguang.cn
-DOMAIN-SUFFIX,sm.cn
 DOMAIN-SUFFIX,outin.cn
 DOMAIN-SUFFIX,etahub.com
 DOMAIN-SUFFIX,66mobi.com
@@ -23,12 +22,3 @@ DOMAIN-SUFFIX,cac-repair.com
 DOMAIN-SUFFIX,renrenjihua.com
 DOMAIN-SUFFIX,xiangzishop.com
 DOMAIN-SUFFIX,chjkelihaile.com
-DOMAIN-SUFFIX,image.uczzd.cn
-DOMAIN-SUFFIX,msgacs.youku.com
-DOMAIN-SUFFIX,rhdc-acs.youku.com
-DOMAIN-SUFFIX,play-dnps.youku.com
-DOMAIN-SUFFIX,adashx.ut.youku.com
-DOMAIN-SUFFIX,ykad-data.youku.com
-DOMAIN-SUFFIX,yktd.m.cn.miaozhen.com
-DOMAIN-SUFFIX,youku-acs.m.taobao.com
-DOMAIN-SUFFIX,nbsdk-baichuan.alicdn.com
