@@ -32,6 +32,7 @@ IP-CIDR,42.248.140.114/32,no-resolve
 IP-CIDR,42.248.140.115/32,no-resolve
 IP-CIDR,42.248.140.116/32,no-resolve
 IP-CIDR,42.248.140.117/32,no-resolve
+IP-CIDR,123.172.127.132/32,no-resolve
 IP-CIDR,182.201.241.59/32,no-resolve
 IP-CIDR,182.201.241.60/32,no-resolve
 IP-CIDR,182.201.241.61/32,no-resolve
