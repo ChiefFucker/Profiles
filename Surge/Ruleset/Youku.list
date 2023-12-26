@@ -8,6 +8,8 @@ IP-CIDR,42.202.209.189/32,no-resolve
 IP-CIDR,42.202.209.190/32,no-resolve
 IP-CIDR,42.202.209.191/32,no-resolve
 IP-CIDR,42.202.209.192/32,no-resolve
+IP-CIDR,42.202.209.231/32,no-resolve
+IP-CIDR,42.202.209.232/32,no-resolve
 IP-CIDR,42.202.209.235/32,no-resolve
 IP-CIDR,42.202.209.236/32,no-resolve
 IP-CIDR,42.202.209.237/32,no-resolve
