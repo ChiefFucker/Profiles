@@ -24,6 +24,7 @@ DOMAIN-KEYWORD,baidu
 DOMAIN-KEYWORD,bcebos
 DOMAIN-KEYWORD,bsccdn
 DOMAIN-KEYWORD,bdstatic
+DOMAIN-KEYWORD,pstatp
 DOMAIN-KEYWORD,qnqcdn
 DOMAIN-KEYWORD,joying
 DOMAIN-KEYWORD,cibntv
@@ -41,7 +42,6 @@ DOMAIN-KEYWORD,ulikecam
 DOMAIN-KEYWORD,cmpassport
 DOMAIN-SUFFIX,baike.com
 DOMAIN-SUFFIX,bdurl.net
-DOMAIN-SUFFIX,pstatp.com
 IP-CIDR,198.11.188.0/25,no-resolve
 IP-CIDR,198.11.136.0/24,no-resolve
 IP-CIDR6,240e::/16,no-resolve
