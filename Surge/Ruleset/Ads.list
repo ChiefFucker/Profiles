@@ -1,5 +1,7 @@
 # > General
+DOMAIN-KEYWORD,ads
 DOMAIN-KEYWORD,irs0
+DOMAIN-KEYWORD,pagead
 DOMAIN,sdk.tianmu.mobi
 DOMAIN,polar-sdk-api.jiguang.cn
 DOMAIN-SUFFIX,outin.cn
